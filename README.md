@@ -3,13 +3,7 @@ A multi-class text classification model built with scikit-learn to systematicall
 
 📘 Included Projects
 
-Model Training & Validation – Code for data loading, feature engineering, model training, and performance validation using K-Fold Cross-Validation.
-
-Final Model Assets – Saved production-ready files (`.pkl`) for the LinearSVC model and the fitted TfidfVectorizer.
-
-Single-Source Predictor – A Python function to load the saved assets and classify new, raw article text into one of five categories.
-
-Performance Metrics – Detailed classification reports and confusion matrices for model assessment.
+TBA
 
 🛠 Built With
 
