@@ -5,6 +5,18 @@ A multi-class text classification model built with scikit-learn to systematicall
 
 TBA
 
+📚 Data Sources
+
+Bias Dataset 1 (`bias1.csv`):
+    Title: Political Bias
+    Author: Mayobanex Santana
+    Link: https://www.kaggle.com/datasets/mayobanexsantana/political-bias
+
+Bias Dataset 2 (`bias2.csv`):
+    Title: News articles for political bias classification
+    Author: Pablo Gandia
+    Link: https://www.kaggle.com/datasets/gandpablo/news-articles-for-political-bias-classification
+
 🛠 Built With
 
 Python
