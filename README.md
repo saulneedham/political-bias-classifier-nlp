@@ -3,7 +3,13 @@ A multi-class text classification model built with scikit-learn to systematicall
 
 📘 Included Projects
 
-TBA
+01_logistic_regression_comparison.py – Benchmarks the initial models performance across individual and combined datasets for comparison
+
+02_linsvc_kfold_pipeline.py – Validates the final chosen model (LinearSVC + Trigrams) and methodology using 5-Fold Cross-Validation
+
+03_final_model_save.py – Trains the final classification pipeline on 100% of the data and saves the complete model asset for deployment
+
+04_predict_new_articles.py – Loads the saved model and demonstrates its real-world bias classification capability on new, unseen text samples
 
 📚 Data Sources
 
