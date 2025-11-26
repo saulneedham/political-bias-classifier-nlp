@@ -1,7 +1,7 @@
 # Political Bias Classifier (NLP)
 A multi-class text classification model built with scikit-learn to systematically determine the political leaning of news articles. The final model utilizes LinearSVC and Trigram features to categorize text into five distinct bias levels. Validated with 5-Fold Cross-Validation, it achieves a reliable average accuracy of over 70%.
 
-📘 Included Projects
+## 📘 Included Projects
 
 1-dataset-comparison.py – Benchmarks the initial models performance across individual and combined datasets for comparison
 
@@ -11,7 +11,7 @@ A multi-class text classification model built with scikit-learn to systematicall
 
 4-article-testing.py – Loads the saved model and demonstrates its real-world bias classification capability on new, unseen text samples
 
-📚 Data Sources
+## 📚 Data Sources
 
 Bias Dataset 1 (`bias1.csv`):
     Title: Political Bias
@@ -23,7 +23,7 @@ Bias Dataset 2 (`bias2.csv`):
     Author: Pablo Gandia
     Link: https://www.kaggle.com/datasets/gandpablo/news-articles-for-political-bias-classification
 
-🛠 Built With
+## 🛠 Built With
 
 Python
 
